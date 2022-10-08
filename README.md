@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik34&label=Profile%20views&color=0e75b6&style=flat" alt="souvik34" /> </p>
 
-<p align="left"> <a href="https://twitter.com/souvik sural" target="blank"><img src="https://img.shields.io/twitter/follow/souvik sural?logo=twitter&style=for-the-badge" alt="souvik sural" /></a> </p>
+<p align="left"> <a href="https://twitter.com/souvik_sural" target="blank"><img src="https://img.shields.io/twitter/follow/souvik_sural?logo=twitter&style=for-the-badge" alt="souvik_sural" /></a> </p>
 
 - 🔭 I’m currently working on **Coding Junction**
 
