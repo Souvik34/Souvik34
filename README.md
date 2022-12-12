@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Coding Junction**
 
-- 🌱 I’m currently learning **Reactjs, JavaScript**
+- 🌱 I’m currently learning **NextJS, JavaScript**
 
 - 💬 Ask me about **HTML, CSS, C++,Bootstrap, TailwindCSS**
 
