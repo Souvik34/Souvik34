@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/souvik_sural" target="blank"><img src="https://img.shields.io/twitter/follow/souvik_sural?logo=twitter&style=for-the-badge" alt="souvik_sural" /></a> </p>
 
-- 🔭 I’m currently working on **Coding Junction**
+- 🔭 I’m currently working on **Coding Junction- Web Developer**
 
-- 🌱 I’m currently learning **Nextjs, JavaScript**
+- 🌱 I’m currently learning **Nextjs, JavaScript, NodeJs(done)**
 
-- 💬 Ask me about **HTML, CSS, C++,Bootstrap, TailwindCSS**
+- 💬 Ask me about **HTML, CSS, C++,Bootstrap, TailwindCSS, ReactJS**
 
 - 📫 How to reach me **souviksural22@gmail.com**
 
