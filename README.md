@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, C++,Bootstrap, TailwindCSS, ReactJS**
 
-- 📫 How to reach me **souviksural22@gmail.com**
+- 📫 How to reach me **souvik13109@gmail.com**
 
 - ⚡ Fun fact **I am friendly and funny**
 
