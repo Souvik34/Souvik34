@@ -1,11 +1,12 @@
 [![MasterHead](https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=900&t=st=1665258065~exp=1665258665~hmac=ff87bc734040bac5c23446903297c82af16fb14d0c12c3b8df84b0badba1a729)](https://souviksural.io)
-<img align= "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
 <h1 align="center">Hi 👋, I'm Souvik Sural</h1>
 <h3 align="center">A frontend developer and Web3 Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik34&label=Profile%20views&color=0e75b6&style=flat" alt="souvik34" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34" alt="souvik34" /></a> </p>
+<img align= "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - 🔭 I’m currently working on **Snapgram**
 
