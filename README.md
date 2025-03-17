@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34" alt="souvik34" /></a> </p>
 <img align= "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- 🔭 I’m currently working on **CUG Management in Railways**
+- 🔭 I’m currently working on **Second Innings **
 
 - 🌱 I’m currently learning **Rust, Go**
 
-- 👯 I’m looking to collaborate on **GSOC 24'**
+- 👯 I’m looking to collaborate on **GSOC 25'**
 
 - 💬 Ask me about **Java, HTML, CSS, C++,Bootstrap, TailwindCSS, ReactJS**
 
