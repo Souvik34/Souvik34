@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **GSOC 25'**
 
-- 💬 Ask me about **Java, HTML, CSS, C++,Bootstrap, TailwindCSS, ReactJS**
+- 💬 Ask me about **Java, HTML, CSS, Java,Bootstrap, TailwindCSS, ReactJS, MERN**
 
 - 📫 How to reach me **souvik13109@gmail.com**
 
