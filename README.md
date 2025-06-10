@@ -15,6 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvik13109@gmail.com)](mailto:souvik13109@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/souvik13109)](https://auth.geeksforgeeks.org/user/souvik13109)
 
+<br>
+
 
 
 <img align= "right" alt= "coding" width= "400" src= "https://media1.tenor.com/m/6rp1RIWybD4AAAAd/death-note-kira.gif">
@@ -53,14 +55,21 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=souvik34&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<img align= "right" alt= "coding" width= "300" src= "https://media1.tenor.com/m/MXdLda7_c_kAAAAd/anime-anime-girl.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik34&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/souvik34/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvik34&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁} 50.56 % as on ⏰ 10-June-2025
+
+
+
+
+ <br>
+ <br>
+
+ 
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁} 50.56 % as on ⏰ 10-June-2025
 
 ---
 
