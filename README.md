@@ -52,7 +52,7 @@
 <h3 align="left">Holopin Badge and Github Trophies:</h3>
 
 [![An image of @souvik34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik34)](https://holopin.io/@souvik34)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34 alt="souvik34" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Souvik34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /></a> </p>
 
 ---
 
