@@ -41,6 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,express,nodejs,figma,c,cs,cpp,docker,dotnet,java,kubernetes,firebase,git,gitlab,linux,materialui,matlab,mysql,nextjs,notion,npm,appwrite,arduino,autocad,bash,bootstrap,postman,prisma,py,redux,replit,sass,netlify,solidity,svelte,tailwind,threejs,ts,vercel,vite,vscode,visualstudio,rust)](https://skillicons.dev)
      
 </p>
+
 ---
 
 
