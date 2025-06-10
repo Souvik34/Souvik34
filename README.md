@@ -1,9 +1,11 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/GQ0gqosxHMQAAAAd/hazama-welcome.gif">
+  <h1 align="center">Konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </h1>
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Souvik34/Souvik34/blob/main/assets/one%20gif.gif?raw=true">
 </div>
 <br>
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Souvik Sural</h1>
+
+  <br> <h1 align="center"> I'm Souvik Sural</h1>
 <h3 align="center">A full-stack web developer and Web3 Enthusiast</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik34&label=Profile%20views&color=0e75b6&style=flat" alt="souvik34" /> </p>
 
@@ -19,13 +21,13 @@
 
 
 
-<img align= "right" alt= "coding" width= "400" src= "https://media1.tenor.com/m/6rp1RIWybD4AAAAd/death-note-kira.gif">
+<img align= "right" alt= "coding" width= "400" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/two.gif">
 
 - 🔭 I’m currently building on **Cloak**
   
 - 🌱 I’m currently learning **Rust, Go**
-  
-- 💬 Ask me about ****
+
+- 💬 Ask me about **Full stack development and web3 technologies**
   
 - 📄 Check my [Resume](https://drive.google.com/file/d/1s9fpsIUSdDqeoHbz9gWfD0CQ0xne5idn/view?usp=sharing)
   
@@ -53,9 +55,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34 alt="souvik34" /></a> </p>
 
 ---
+
+
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<img align= "right" alt= "coding" width= "300" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/badge.gif">
+
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=souvik34&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-<img align= "right" alt= "coding" width= "300" src= "https://media1.tenor.com/m/MXdLda7_c_kAAAAd/anime-anime-girl.gif">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik34&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/souvik34/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvik34&theme=dark)](https://git.io/streak-stats)
 
@@ -75,6 +80,8 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Blog posts:
 <!-- BLOG-POST-LIST:START -->
+ <img align= "right" alt= "coding" width= "300" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/read.gif">
+ 
 - [Exploring Nodejs](https://souviksural.hashnode.dev/exploring-nodejs)
 - [Exploring Nodejs P-II](https://souviksural.hashnode.dev/exploring-nodejs-p-ii)
 - [Exploring Nodejs P-III](https://souviksural.hashnode.dev/exploring-nodejs-p-iii)
@@ -82,5 +89,6 @@
 - [Mastering Expressjs P-II](https://souviksural.hashnode.dev/mastering-expressjs-p-ii)
 - [Rise in: Empowering India’s Web3 Revolution Through Education](https://medium.com/@souvik13109/rise-in-empowering-indias-web3-revolution-through-education-2b9f95926c6f)
 - [Kharagpur Winter of Code’ 2023 , KWOC— My first Open Source experience](https://medium.com/@souvik13109/kharagpur-winter-of-code-2023-kwoc-my-first-open-source-experience-77568f21e168)
+ 
 <!-- BLOG-POST-LIST:END -->
 
