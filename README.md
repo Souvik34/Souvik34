@@ -1,8 +1,10 @@
-[![MasterHead](https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=900&t=st=1665258065~exp=1665258665~hmac=ff87bc734040bac5c23446903297c82af16fb14d0c12c3b8df84b0badba1a729)](https://souviksural.io)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/GQ0gqosxHMQAAAAd/hazama-welcome.gif">
+</div>
+<br>
 
-<h1 align="center">Hi 👋, I'm Souvik Sural</h1>
-<h3 align="center">A full-stack web developer and Web3 Enthusiast</h3>
-
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Souvik Sural</h1>
+<h3 align="center">A full-stack web developer and Web3 Enthusiast</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik34&label=Profile%20views&color=0e75b6&style=flat" alt="souvik34" /> </p>
 
 ### 📬 Find me at
@@ -14,24 +16,24 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/souvik13109)](https://auth.geeksforgeeks.org/user/souvik13109)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34" alt="souvik34" /></a> </p>
-<img align= "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
+<img align= "right" alt= "coding" width= "400" src= "https://media1.tenor.com/m/6rp1RIWybD4AAAAd/death-note-kira.gif">
 
 - 🔭 I’m currently building on **Cloak**
-
+  
 - 🌱 I’m currently learning **Rust, Go**
-
-- 👯 I’m looking to collaborate on **GSOC 25'**
-
-- 💬 Ask me about **Java, HTML, CSS, Java,Bootstrap, TailwindCSS, ReactJS, MERN**
-
-- 📫 How to reach me **souvik13109@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C6-8J89dpF4ssVGtYqXOJ1tq9pDTuUYC/view?usp=sharing]
-
+  
+- 💬 Ask me about ****
+  
+- 📄 Check my [Resume](https://drive.google.com/file/d/1s9fpsIUSdDqeoHbz9gWfD0CQ0xne5idn/view?usp=sharing)
+  
 - ⚡ Fun fact **I am friendly and helpful**
 
+<br>
+<br>
+<br>
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -42,9 +44,10 @@
 ---
 
 
-<h3 align="left">Holopin Badges:</h3>
+<h3 align="left">Holopin Badge and Github Trophies:</h3>
 
 [![An image of @souvik34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik34)](https://holopin.io/@souvik34)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34 alt="souvik34" /></a> </p>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
