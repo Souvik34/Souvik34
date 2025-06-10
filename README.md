@@ -12,7 +12,7 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Souvik34/)](https://github.com/Souvik34/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souvik-sural/)](https://www.linkedin.com/in/souvik-sural/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link:https://leetcode.com/https://leetcode.com/souvik13109/)](https://leetcode.com/https://leetcode.com/souvik13109/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link:https://leetcode.com/u/souvik13109/)](https://leetcode.com/u/souvik13109/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/souvik13109)](https://www.hackerrank.com/profile/souvik13109)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvik13109@gmail.com)](mailto:souvik13109@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/souvik13109)](https://auth.geeksforgeeks.org/user/souvik13109)
