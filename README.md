@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik34" alt="souvik34" /></a> </p>
 <img align= "right" alt= "coding" width= "400" src= "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- 🔭 I’m currently working on **Second Innings**
+- 🔭 I’m currently building on **Cloak**
 
 - 🌱 I’m currently learning **Rust, Go**
 
@@ -32,20 +32,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,express,nodejs,figma,c,cs,cpp,docker,dotnet,java,kubernetes,firebase,git,gitlab,linux,materialui,matlab,mysql,nextjs,notion,npm,appwrite,arduino,autocad,bash,bootstrap,postman,prisma,py,redux,replit,sass,netlify,solidity,svelte,tailwind,threejs,ts,vercel,vite,vscode,visualstudio,rust)](https://skillicons.dev)
+     
 </p>
+---
+
+
+<h3 align="left">Holopin Badges:</h3>
 
 [![An image of @souvik34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik34)](https://holopin.io/@souvik34)
 
@@ -59,7 +53,18 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.56 % as on ⏰ 28-May-2025
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁} 50.56 % as on ⏰ 10-June-2025
 
 ---
+
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Exploring Nodejs](https://souviksural.hashnode.dev/exploring-nodejs)
+- [Exploring Nodejs P-II](https://souviksural.hashnode.dev/exploring-nodejs-p-ii)
+- [Exploring Nodejs P-III](https://souviksural.hashnode.dev/exploring-nodejs-p-iii)
+- [Mastering Expressjs](https://souviksural.hashnode.dev/mastering-expressjs)
+- [Mastering Expressjs P-II](https://souviksural.hashnode.dev/mastering-expressjs-p-ii)
+- [Rise in: Empowering India’s Web3 Revolution Through Education](https://medium.com/@souvik13109/rise-in-empowering-indias-web3-revolution-through-education-2b9f95926c6f)
+- [Kharagpur Winter of Code’ 2023 , KWOC— My first Open Source experience](https://medium.com/@souvik13109/kharagpur-winter-of-code-2023-kwoc-my-first-open-source-experience-77568f21e168)
+<!-- BLOG-POST-LIST:END -->
 
