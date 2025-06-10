@@ -23,7 +23,7 @@
 
 <img align= "right" alt= "coding" width= "400" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/two.gif">
 
-- 🔭 I’m currently building on **Cloak**
+- 🔭 I’m currently building **Cloak**
   
 - 🌱 I’m currently learning **Rust, Go**
 
