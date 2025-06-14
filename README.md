@@ -21,7 +21,7 @@
 
 
 
-<img align= "right" alt= "coding" width= "400" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/two.gif">
+<img align= "right" alt= "coding" width= "400" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/anime-jujutsu-kaisen.gif">
 
 - 🔭 I’m currently building **Cloak**
   
