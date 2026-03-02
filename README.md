@@ -23,9 +23,9 @@
 
 <img align= "right" alt= "coding" width= "400" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/anime-jujutsu-kaisen.gif">
 
-- 🔭 I’m currently building **Cloak**
+- 🔭 I’m currently building **DSA Tracker**
   
-- 🌱 I’m currently learning **Rust, Go**
+- 🌱 I’m currently learning **Java Backend, Golang**
 
 - 💬 Ask me about **Full stack development and web3 technologies**
   
@@ -73,7 +73,7 @@
  <br>
 
  
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁} 50.56 % as on ⏰ 10-June-2025
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁} 20.56 % as on ⏰ 01-March-2026
 
 ---
 
