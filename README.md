@@ -80,7 +80,8 @@
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Blog posts:
 <!-- BLOG-POST-LIST:START -->
  <img align= "right" alt= "coding" width= "300" src= "https://github.com/Souvik34/Souvik34/blob/main/assets/read.gif">
- 
+
+- [Design Patterns for Software Engineering](https://design-pattern.hashnode.dev/design-patterns-for-software-engineering)
 - [Exploring Nodejs](https://souviksural.hashnode.dev/exploring-nodejs)
 - [Exploring Nodejs P-II](https://souviksural.hashnode.dev/exploring-nodejs-p-ii)
 - [Exploring Nodejs P-III](https://souviksural.hashnode.dev/exploring-nodejs-p-iii)
