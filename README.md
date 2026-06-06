@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Full stack development and web3 technologies**
   
-- 📄 Check my [Resume](https://drive.google.com/file/d/1cTg7eAL4q81VisQD5jLPlFf0KEN9oTC0/view?usp=sharing)
+- 📄 Check my [Resume]([https://drive.google.com/file/d/1cTg7eAL4q81VisQD5jLPlFf0KEN9oTC0/view?usp=sharing](https://drive.google.com/file/d/1LETeZkX7kAAkVR794ATh9sz5f_QvdM7h/view?usp=sharing)
 - ⚡ Fun fact **I am friendly and helpful**
 
 <br>
